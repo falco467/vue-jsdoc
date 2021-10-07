@@ -1,5 +1,5 @@
 {
-  "name": "js-vue-jsdoc-demo",
+  "name": "vue-jsdoc",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
